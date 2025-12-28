@@ -1,1 +1,11 @@
-
+{
+  "bot32": ,
+  "Nock32": ,
+  "Dead32": ,
+  "Match32": ,
+  "Distance32": ,
+  "botvalue32": [""],
+  "nockvalue32": [""],
+  "deadvalue32": [""],
+  "Alivevalue32": [""],
+}
