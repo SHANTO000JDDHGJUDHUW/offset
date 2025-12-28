@@ -8,4 +8,13 @@
   "nockvalue32": [""],
   "deadvalue32": [""],
   "Alivevalue32": [""],
+  "bot64": ,
+  "Nock64": ,
+  "Dead64": ,
+  "Match64": ,
+  "Distance64": ,
+  "botvalue64": [""],
+  "nockvalue64": [""],
+  "deadvalue64": [""],
+  "Alivevalue64": [""]
 }
