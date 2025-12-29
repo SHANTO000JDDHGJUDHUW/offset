@@ -13,9 +13,9 @@
   "Dead64": 111,
   "Match64": 111,
   "Distance64": 111,
-  "botvalue64": ["e0"],
-  "nockvalue64": ["3f"],
-  "deadvalue64": ["3d"],
+  "botvalue64": ["E0","67","78","90"],
+  "nockvalue64": ["3F"],
+  "deadvalue64": ["3D"],
   "Alivevalue64": ["01"],
   "Match64": 492
 }
